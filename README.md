@@ -9,9 +9,7 @@ Cursed sats👹are a hidden gem 👇
 - Cursed sats are a great collectible, and good entry for new Ordinals collectors.
 - Some Cursed sats could become some of the most historic and valuable collectibles in the world!
 - A few cursed collections stand out for being first to experiment with important new techniques that later became the standard in the Ordinals protocol.
-- 
-@OnChainMonkey
- OCM Genesis was the first 10k collection inscribed with the collection standard on Bitcoin, before it became standard in the Ordinals protocol, so OCM became Cursed for being early, and the first.👹
+- @OnChainMonkey OCM Genesis was the first 10k collection inscribed with the collection standard on Bitcoin, before it became standard in the Ordinals protocol, so OCM became Cursed for being early, and the first.👹
 
 🟧 What are Cursed sats?
 
